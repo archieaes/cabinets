@@ -73,4 +73,4 @@
 73,Alexander Stubb,1,24.06.2014 - 29.05.2015
 74,Juha Sipilä,1,29.05.2015 - 06.06.2019
 75,Antti Rinne,1,06.06.2019 - 10.12.2019
-76,Sanna Marin,1,10.12.2019 - nyk
+76,Sanna Marin,1,10.12.2019 - present
