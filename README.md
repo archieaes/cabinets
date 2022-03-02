@@ -1,3 +1,3 @@
-# cabinets
+# Cabinets
 
 This program prints information about the Prime Minister and Government based on the sequence number given by the user (eg "55" = 55th Government of Finland). The source data has been retrieved from [Wikipedia] (https://en.wikipedia.org/wiki/List_of_prime_ministers_of_Finland) and [Government website] (https://stateeuvosto.fi/en/governments-and-ministers). Program is using num2words library in order to conver numers to words. The source data is stored in a text file from which it is retrieved when the program is run. The program functions until the entered number is an integer between 1 and 76. The user is instructed if the entered input is not in the correct format.
